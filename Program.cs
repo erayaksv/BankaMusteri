@@ -20,7 +20,7 @@ namespace Program
 		    musteri2.Soyadi = "Kalın";
 		    musteri2.MevcutBakiye = 1500;
 		    
-            Musteri musteri3 = new Musteri();
+            	    Musteri musteri3 = new Musteri();
 		    musteri3.Adi = "Aslı";
 		    musteri3.Soyadi = "Girgin";
 		    musteri3.MevcutBakiye = 3000;
